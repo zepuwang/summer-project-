@@ -20,6 +20,10 @@ To run codes, do not forget to change data path in the main_M_Gaussian.py and te
 ## Framework
 ![Framework](Docs/structure.png)
 
+## Summary
+You might refer to my online document to (https://docs.google.com/document/d/1f_kDtgcsUErWmNqoquzOAtbmElwZ8JbT78776JuGvSM/edit?usp=sharing) for my weekly progress. This document is keeping updated.
+You might refer to my online document to (https://docs.google.com/document/d/1BmTfi7_eZrvGi1OLK8uFPuJeXgG43onaVEVNfqNcssU/edit?usp=sharing) for my personal evaluation.
+
 ## Acknowledgement
 
 THanks Prof. Jinhua Zhao, Prof. Shenhao Wang, Dingyi Zhuang and Qingyi Wang for supporting me this summer.

@@ -31,6 +31,7 @@ To run codes, do not forget to change data path in the main_M_Gaussian.py and te
 ## Summary
 You might refer to my online document to (https://docs.google.com/document/d/1f_kDtgcsUErWmNqoquzOAtbmElwZ8JbT78776JuGvSM/edit?usp=sharing) for my weekly progress. This document is keeping updated.
 You might refer to my online document to (https://docs.google.com/document/d/1BmTfi7_eZrvGi1OLK8uFPuJeXgG43onaVEVNfqNcssU/edit?usp=sharing) for my personal evaluation.
+For my presentation, you might refer to (https://docs.google.com/presentation/d/1V5VkW77O_9Jq8hALQCsVRhajItyL8lXhHMDhfwKd32A/edit?usp=sharing).
 
 ## Acknowledgement
 

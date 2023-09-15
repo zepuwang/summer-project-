@@ -1,5 +1,5 @@
 # summer-project
-This is the repository for Zepu's summer project at MIT.
+This is the repository for Zepu's summer project at MIT transit lab.
 
 ## Introduction
 data.zip: The ride sharing dataset in New York.

@@ -21,4 +21,7 @@ To run codes, do not forget to change data path in the main_M_Gaussian.py and te
 
 THanks Prof. Jinhua Zhao, Prof. Shenhao Wang, Dingyi Zhuang and Qingyi Wang for supporting me this summer.
 
+## Framework
+![Framework](Docs/structure.png)
+
 

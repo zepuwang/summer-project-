@@ -17,11 +17,11 @@ https://github.com/ZhuangDingyi/STZINB
 
 To run codes, do not forget to change data path in the main_M_Gaussian.py and test_M_Gaussian.py.
 
+## Framework
+![Framework](Docs/structure.png)
+
 ## Acknowledgement
 
 THanks Prof. Jinhua Zhao, Prof. Shenhao Wang, Dingyi Zhuang and Qingyi Wang for supporting me this summer.
-
-## Framework
-![Framework](Docs/structure.png)
 
 

@@ -12,6 +12,10 @@ main_M_Gaussian.py: an exmple of the training process of Gaussian Mixture Distri
 
 test_M_Gaussian.py: an example of the testing process of Gaussian Mixture Distribution.
 
+main_M_Poisson.py: an exmple of the training process of Poisson Mixture Distribution.
+
+test_M_Poisson.py: an example of the testing process of Poisson Mixture Distribution.
+
 Some of the codes are from: 
 https://github.com/ZhuangDingyi/STZINB
 

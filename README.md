@@ -16,6 +16,8 @@ main_M_Poisson.py: an exmple of the training process of Poisson Mixture Distribu
 
 test_M_Poisson.py: an example of the testing process of Poisson Mixture Distribution.
 
+More exmaples will be updated.
+
 Some of the codes are from: 
 https://github.com/ZhuangDingyi/STZINB
 

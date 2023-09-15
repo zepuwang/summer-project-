@@ -1,7 +1,7 @@
 # summer-project
+This is the repository for Zepu's summer project at MIT.
 
-It is the repository for Zepu's summer project at MIT.
-
+## Introduction
 data.zip: The ride sharing dataset in New York.
 
 GAT.py: It is an implementation of graph attention networks.
@@ -17,6 +17,8 @@ https://github.com/ZhuangDingyi/STZINB
 
 To run codes, do not forget to change data path in the main_M_Gaussian.py and test_M_Gaussian.py.
 
-THanks for Prof. Jinhua Zhao, Prof. Shenhao Wang, Dingyi Zhuang and Qingyi Wang for supporting me this summer.
+## Acknowledgement
+
+THanks Prof. Jinhua Zhao, Prof. Shenhao Wang, Dingyi Zhuang and Qingyi Wang for supporting me this summer.
 
 

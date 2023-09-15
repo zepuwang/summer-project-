@@ -4,6 +4,8 @@ This is the repository for Zepu's summer project at MIT transit lab.
 ## Introduction
 data.zip: The ride sharing dataset in New York.
 
+EDA.ipynb: Data Exploration
+
 GAT.py: It is an implementation of graph attention networks.
 
 layers.py: an implementation of graph attention layers and temporal convolution layers.

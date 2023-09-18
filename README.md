@@ -1,5 +1,5 @@
 # summer-project
-This is the repository for Zepu's summer project at MIT transit lab. The materials will be updated.
+This is the repository for Zepu's summer project at MIT transit lab. The materials will be updated. You might contact Zepu Wang for more information (zepu@seas.upenn.edu).
 
 ## Introduction
 data.zip: The ride sharing dataset in New York.

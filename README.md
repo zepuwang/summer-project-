@@ -7,7 +7,7 @@ data.zip: The ride sharing dataset in New York.
 
 EDA.ipynb: Data Exploration
 
-GAT.py: It is an implementation of graph attention networks.
+GAT.py: an implementation of graph attention networks.
 
 layers.py: an implementation of graph attention layers and temporal convolution layers.
 

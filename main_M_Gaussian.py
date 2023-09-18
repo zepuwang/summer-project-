@@ -139,15 +139,6 @@ validation_mae = []
 for epoch in range(epochs):
 
     ## Step 1, training
-    """
-    # Begin training, similar training procedure from STGCN
-    Trains one epoch with the given data.
-    :param training_input: Training inputs of shape (num_samples, num_nodes,
-    num_timesteps_train, num_features).
-    :param training_target: Training targets of shape (num_samples, num_nodes,
-    num_timesteps_predict).
-    :param batch_size: Batch size to use during training.
-    """
     epoch_training_losses = []
     total_loss = 0
     for i in range(0, training_input.shape[0], batch_size):

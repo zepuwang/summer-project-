@@ -1,4 +1,5 @@
-# summer-project
+# Mixture Models for Uncertainty Quantification in Travel Demand Forecasting
+
 This is the repository for Zepu's summer project at MIT transit lab. The materials will be updated. You might contact Zepu Wang for more information (zepu@seas.upenn.edu).
 
 ## Introduction
